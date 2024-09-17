@@ -30,6 +30,8 @@
 
 .container__imagem {
     padding: 1em;
+    width: 100px;
+    height: 100px;
 }
 
 
